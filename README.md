@@ -1,5 +1,5 @@
 
-# 🛡️ Reset Survival PoC - Payload Persistence.
+# 🛡️ WinRE Persistance - Payload Persistance.
 
 ---
 
