@@ -1,0 +1,14 @@
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\bin\Release\net8.0\ResetSurvival1.exe
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\bin\Release\net8.0\ResetSurvival1.deps.json
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\bin\Release\net8.0\ResetSurvival1.runtimeconfig.json
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\bin\Release\net8.0\ResetSurvival1.dll
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\bin\Release\net8.0\ResetSurvival1.pdb
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\ResetSurvival1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\ResetSurvival1.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\ResetSurvival1.AssemblyInfo.cs
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\ResetSurvival1.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\ResetSurvival1.dll
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\refint\ResetSurvival1.dll
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\ResetSurvival1.pdb
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\ResetSurvival1.genruntimeconfig.cache
+C:\Users\miles\source\repos\ResetSurvival1\ResetSurvival1\obj\Release\net8.0\ref\ResetSurvival1.dll
